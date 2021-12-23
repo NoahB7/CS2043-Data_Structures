@@ -1,0 +1,4 @@
+Data Structures,Fundamental CS Course,12345
+Programming I,Basic Java Programming,45678
+Machine Learning,A class about machine learning,55555
+Data Analytics,A class about data analytics,30000
